@@ -15,7 +15,7 @@ description=Standalone QGIS plugin to build trapezoidal drainage channels from a
 about=Standalone production-ready channel builder for QGIS 3.44+ and QGIS 4 (Qt6), with robust DEM alignment, centered geometry, and stable GDAL processing.
 version=6.0.0
 author=Javier Rodríguez
-email=
+email=jrbarrientos@omicronamepro.es
 
 # End of mandatory metadata
 
@@ -29,9 +29,9 @@ changelog=
 	5.4.5 PRO: centerline-based geometry correction
 # Tags are comma separated with spaces allowed
 tags=hydraulics, cut and fill, earthwork, drainage
-homepage=
-tracker=
-repository=
+homepage=https://github.com/jrbarrientosGIS/CHANNEL
+tracker=https://github.com/jrbarrientosGIS/CHANNEL/issues
+repository=https://github.com/jrbarrientosGIS/CHANNEL
 icon=icon.png
 # experimental flag
 experimental=False
